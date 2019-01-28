@@ -1,0 +1,38 @@
+div {
+    margin: 0px;
+    padding: 10px;
+}
+
+.section1 {
+    border: 1px solid black;
+    box-shadow: 2px 4px 5px 3px gray;
+}
+.section2 {
+    top: 0%;
+    height: 20%;
+    overflow: auto;
+    
+}
+
+.section3 {
+    top: 25%;
+    height: 40%;
+    overflow: auto;
+}
+
+.round {
+    width: 200px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.position {
+    position: absolute;
+}
